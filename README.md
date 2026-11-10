@@ -10,6 +10,7 @@
 
 안녕하세요, 백엔드 개발자 박채빈입니다.
 Java와 Spring을 중심으로 서버 개발을 공부하고 있고, 일정 관리 앱, 커머스, 결제 시스템 같은 프로젝트를 만들어 왔습니다.
+개발 과정에서 AI 에이전트를 도구로 활용해 코드 작성, 문서화, 반복 작업을 자동화하고, 결과물은 직접 검토하고 책임지는 방식으로 일하고 있습니다.
 
 ## Tech Stack
 
@@ -21,6 +22,7 @@ Java와 Spring을 중심으로 서버 개발을 공부하고 있고, 일정 관�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-4E4376?style=for-the-badge)
 
 ## Projects
 
@@ -32,6 +34,10 @@ Java와 Spring을 중심으로 서버 개발을 공부하고 있고, 일정 관�
 | [schedules-app](https://github.com/pcb2002/schedules-app) | 일정 관리 앱 |
 | [Commerce-project](https://github.com/pcb2002/Commerce-project) | 내일배움캠프 커머스 과제 |
 | [Code-Kata](https://github.com/pcb2002/Code-Kata) | 내일배움캠프 코드카타 |
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-machat350%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machat350@gmail.com)
 
 ## Contribution Graph
 
